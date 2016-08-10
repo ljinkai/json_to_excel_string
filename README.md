@@ -1,12 +1,10 @@
 # json to excel string
 json object to excel string
 
-`
-{
-  "active":"Currently active for this listing.",
-  "purchased":"Thank you for your purchase!"
-}
-`
+    {
+      "active":"Currently active for this listing.",
+      "purchased":"Thank you for your purchase!"
+    }
 
 the key strings
 `
