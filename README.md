@@ -16,6 +16,7 @@ the values strings
     Currently active for this listing.
     Thank you for your purchase!
 
+And "Copy" then "Paste"  
 
 # excel string to json object
 
