@@ -1,3 +1,4 @@
+  add the app folder to chrome://extensions/, choose the develop mode
 # json to excel string
 json object to excel string
 
@@ -19,4 +20,3 @@ the values strings
 And "Copy" then "Paste"  
 
 # excel string to json object
-
